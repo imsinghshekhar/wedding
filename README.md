@@ -1,4 +1,4 @@
 # wedding
 Website created for wedding invitation 
 
-https://shekharshiluwedding.netlify.app/
+https://savethedates.netlify.app/
