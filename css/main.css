@@ -142,7 +142,7 @@ body {
   margin: 0 auto;
 }
 
-/* The actual timeline (the vertical ruler) */
+/* The actual timeline (the vertical ruler)
 .timeline::after {
   content: '';
   position: absolute;
@@ -152,7 +152,7 @@ body {
   bottom: 0;
   left: 50%;
   margin-left: -3px;
-}
+} */
 
 /* Container around content */
 .container-tl {
@@ -183,7 +183,7 @@ body {
 
 /* Place the container to the right */
 .right {
-  left: 50%;
+  left: 0%;
 }
 
 /* Add arrows to the left container (pointing right) */
