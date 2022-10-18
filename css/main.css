@@ -147,7 +147,7 @@ body {
   content: '';
   position: absolute;
   width: 6px;
-  background-color: rgb(206, 237, 249);/*white;*/
+  background-color: white;
   top: 0;
   bottom: 0;
   left: 50%;
@@ -170,7 +170,7 @@ body {
   height: 25px;
   right: -13px;
   background-color: white;
-  border: 4px solid rgb(206, 237, 249); /* #f89c9c;*/
+  border: 4px solid #f7ebeb; /* #f89c9c;*/
   top: 15px;
   border-radius: 50%;
   z-index: 1;
@@ -222,7 +222,7 @@ body {
 /* The actual content */
 .content {
   padding: 20px 30px;
-  background-color: rgb(206, 237, 249);
+  background-color: #f7ebeb;
   position: relative;
   border-radius: 6px;
 }
