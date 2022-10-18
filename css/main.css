@@ -147,7 +147,7 @@ body {
   content: '';
   position: absolute;
   width: 6px;
-  background-color: white;
+  background-color: #fbe9e9;
   top: 0;
   bottom: 0;
   left: 50%;
@@ -222,7 +222,7 @@ body {
 /* The actual content */
 .content {
   padding: 20px 30px;
-  background-color: #fbe9e9;
+  background-color: rgb(251, 244, 244);/*#fbe9e9;*/
   position: relative;
   border-radius: 6px;
 }
